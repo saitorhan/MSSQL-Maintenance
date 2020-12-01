@@ -1,3 +1,5 @@
+-- Video: https://youtu.be/LYPJwhA1h94
+
 declare @sql nvarchar(500)
 declare @tableName nvarchar(200)
 
