@@ -1,0 +1,2 @@
+# MSSQL-Maintenance
+MSSQL scriptleri
