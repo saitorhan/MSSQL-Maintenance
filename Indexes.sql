@@ -1,3 +1,5 @@
+-- Remove comments on rows to include column list as well
+
 select 
 ROW_NUMBER() over(partition by i.object_id, i.index_id order by i.name) IndexColumnId,
 t.name TableName, 
