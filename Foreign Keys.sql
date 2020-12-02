@@ -1,3 +1,4 @@
+-- Video: https://youtu.be/DcZThzSyzBo
 select fk.name fkName,
 t.name TableName,
 pc.name ColumnName,
